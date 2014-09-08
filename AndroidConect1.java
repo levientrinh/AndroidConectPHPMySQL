@@ -81,7 +81,7 @@ package com.androidexample.usersessions;
             return false;
         }
          
-         
+         Trinh
          
         /**
          * Get stored session data
